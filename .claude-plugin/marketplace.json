@@ -1,0 +1,14 @@
+{
+  "name": "gravelhost",
+  "owner": { "name": "GravelHost", "url": "https://gravelhost.com" },
+  "plugins": [
+    {
+      "name": "gravelhost",
+      "source": "./",
+      "description": "Check, fix and manage your GravelHost game servers and websites from a conversation: find why a server is down or lagging, read the console, edit configs, make backups, and install plugins and mods.",
+      "version": "1.0.0",
+      "homepage": "https://gravelhost.com",
+      "repository": "https://github.com/kochjaber/gravelhost-claude-plugin"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "gravelhost",
+  "displayName": "GravelHost",
+  "version": "1.0.0",
+  "description": "Check, fix and manage your GravelHost game servers from a conversation: find why a server is down or lagging, read the console, edit configs, make backups, and install plugins and mods.",
+  "author": { "name": "GravelHost", "url": "https://gravelhost.com" },
+  "homepage": "https://gravelhost.com",
+  "license": "MIT",
+  "keywords": ["game servers", "minecraft", "hosting", "pterodactyl", "server admin"]
+}
